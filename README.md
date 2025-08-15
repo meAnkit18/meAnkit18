@@ -27,7 +27,7 @@ ankit@github:~$ ./skills.sh
 Languages : Java • Python • JavaScript
 Frontend  : ReactJS • HTML • CSS
 Backend   : Node.js • Express
-Other     : Arduino • IoT • Git/GitHub
+Other     : Arduino • IoT • Git/GitHub electron
 
 ankit@github:~$ ./current-focus.sh
 🌱 Mastering Data Structures & Algorithms
