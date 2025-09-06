@@ -18,7 +18,7 @@ ankit@github:~$ whoami
 Ankit Kumar
 
 ankit@github:~$ ./about-me.sh
-🎓 B.Tech CSE @ KIET
+🎓 B.Tech CS @ KIET
 💻 Full Stack & AI/ML Enthusiast
 ⚡ Passionate about Open Source
 🎮 Gamer | 🎵 Music Lover
